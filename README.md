@@ -1,3 +1,4 @@
+
 # LiDAR Robustness Evaluation (ROS2)
 
 A ROS2-based simulation framework for evaluating how LiDAR degradation affects SLAM and mapping performance.
@@ -26,4 +27,7 @@ This repository is a standalone evaluation demo and does not include any proprie
 - src/lidar_degrader/.../lidar_degrader_node.py
 - scripts/run_all_cases.sh
 - scripts/visualize_results.py
+
+# warehouse_sim_backup
+A PX4 + Gazebo simulation of an autonomous drone performing warehouse mapping using LiDAR and camera sensors, with ArUco markers for aisle identification and ROS2 sensor streaming.
 
