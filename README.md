@@ -31,3 +31,8 @@ This repository is a standalone evaluation demo and does not include any proprie
 # warehouse_sim_backup
 A PX4 + Gazebo simulation of an autonomous drone performing warehouse mapping using LiDAR and camera sensors, with ArUco markers for aisle identification and ROS2 sensor streaming.
 
+
+## Development context
+
+This public repository packages a prototype evaluation workflow developed over the prior two weeks into a standalone demo for sharing. It is a public-safe version of a simulation-side validation tool used to study LiDAR degradation effects before broader deployment.
+
