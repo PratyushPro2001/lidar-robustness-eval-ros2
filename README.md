@@ -36,3 +36,12 @@ A PX4 + Gazebo simulation of an autonomous drone performing warehouse mapping us
 
 This public repository packages a prototype evaluation workflow developed over the prior two weeks into a standalone demo for sharing. It is a public-safe version of a simulation-side validation tool used to study LiDAR degradation effects before broader deployment.
 
+
+## Results and Visualization
+
+Output images from the evaluation are included in:
+
+- `results/images/`
+
+These visualizations demonstrate how LiDAR noise and reduced range affect SLAM accuracy and map consistency even when the robot trajectory remains fixed.
+
